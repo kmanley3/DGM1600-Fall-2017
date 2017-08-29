@@ -1,0 +1,17 @@
+For this project, I've chosen too keep track of how much damage my three D&D groups do over the course of the semester.
+I will also keep track of the MVP.
+
+
+The three groups in question are:
+Resurgence (R), What Lies Beyond (WLB) and Watchtower (WT)
+
+Week #1:
+
+	R: 201 Points of Damage (PoD)
+	MVP: Kaelyth, Human Ranger - 43 PoD overall
+
+	WLB: 149 PoD
+	MVP: Chandra, Changeling Rogue - 56 PoD (in one turn!!)
+
+	WT: 50 PoD
+	MVP: D.E.F.A.M.E.R., Warforged Gunslinger - 13 POD overall
