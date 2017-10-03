@@ -10,6 +10,7 @@ public class LogicalOP : MonoBehaviour {
 	public string lightSide = "Obi Wan";
 	public int num1 = 10;
 	public float num2 = 10.5f;
+	public bool fn2187 = true;
 
 	// Use this for initialization
 	void Start () {
@@ -32,7 +33,7 @@ public class LogicalOP : MonoBehaviour {
 			print("Hurray! Now I can date Luke -- but Han is better.");
 		}
 		else
-			print("Hot shot first!");
+			print("Han shot first!");
 		if(lightSide == "Obi Wan" || darkSide == "Jar Jar Binks"){
 			print("Meesa Evil Sith Lord!");
 		}
@@ -51,8 +52,21 @@ public class LogicalOP : MonoBehaviour {
 		else{
 			print("No!");
 		}
+		if(fn2187){
+			print("I'll call you Finn!");
+		}
+		else if(!fn2187){
+			print("It's a stormtrooper!");
+		}
+		else
+			print("The rebels have won!");
 	}
 	
+	//Wow! Logical Operators. It's pretty simple
+	//&& means AND. So both conditions have to be true.
+	//|| means OR. So only one condition has to be true.
+	//if it's a boolean, you can put a ! before it to make it false.
+	//Make sure there are two of each of your signs (&& || ==) unless it's a !
 	
 	// Update is called once per frame
 	//void Update () {}
