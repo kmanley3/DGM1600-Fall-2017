@@ -22,6 +22,7 @@ public class FirstOrder : IComparable<FirstOrder> {
 			}
 
 			return power - other.power;
+			return age - other.age;
 			
 		}
 
